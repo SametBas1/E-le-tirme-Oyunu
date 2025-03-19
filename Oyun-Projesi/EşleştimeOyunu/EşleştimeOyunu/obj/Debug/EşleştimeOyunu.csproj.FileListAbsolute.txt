@@ -1,0 +1,10 @@
+C:\Users\samet\Desktop\Oyun-Projesi\EşleştimeOyunu\EşleştimeOyunu\bin\Debug\EşleştimeOyunu.exe.config
+C:\Users\samet\Desktop\Oyun-Projesi\EşleştimeOyunu\EşleştimeOyunu\bin\Debug\EşleştimeOyunu.exe
+C:\Users\samet\Desktop\Oyun-Projesi\EşleştimeOyunu\EşleştimeOyunu\bin\Debug\EşleştimeOyunu.pdb
+C:\Users\samet\Desktop\Oyun-Projesi\EşleştimeOyunu\EşleştimeOyunu\obj\Debug\EşleştimeOyunu.csproj.AssemblyReference.cache
+C:\Users\samet\Desktop\Oyun-Projesi\EşleştimeOyunu\EşleştimeOyunu\obj\Debug\EşleştimeOyunu.Form1.resources
+C:\Users\samet\Desktop\Oyun-Projesi\EşleştimeOyunu\EşleştimeOyunu\obj\Debug\EşleştimeOyunu.Properties.Resources.resources
+C:\Users\samet\Desktop\Oyun-Projesi\EşleştimeOyunu\EşleştimeOyunu\obj\Debug\EşleştimeOyunu.csproj.GenerateResource.cache
+C:\Users\samet\Desktop\Oyun-Projesi\EşleştimeOyunu\EşleştimeOyunu\obj\Debug\EşleştimeOyunu.csproj.CoreCompileInputs.cache
+C:\Users\samet\Desktop\Oyun-Projesi\EşleştimeOyunu\EşleştimeOyunu\obj\Debug\EşleştimeOyunu.exe
+C:\Users\samet\Desktop\Oyun-Projesi\EşleştimeOyunu\EşleştimeOyunu\obj\Debug\EşleştimeOyunu.pdb
